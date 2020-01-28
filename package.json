@@ -1,11 +1,19 @@
 {
   "name": "hsl-to-hex",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Mohammad Musa",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/musa-pro/hsl-to-hex.git"
+  },
+  "bugs": {
+    "url": "https://github.com/musa-pro/hsl-to-hex/issues"
+  },
+  "homepage": "https://github.com/musa-pro/hsl-to-hex#readme",
+  "description": ""
 }
